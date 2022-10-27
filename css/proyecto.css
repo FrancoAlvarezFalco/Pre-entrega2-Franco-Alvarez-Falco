@@ -5,8 +5,7 @@ SSS* {
 
 /* CSS DE INDEX */
 .Título {
-  background-color: rgb(151, 83, 4);
-  text-align: center;
+  background-color: #ff9100;
   font-weight: bold;
   color: white;
   font-weight: 1000;
@@ -35,37 +34,53 @@ SSS* {
 }
 
 /* CSS DE RECETAS LIVIANAS */
-.Recetas_livianas {
-  background-color: #d4f380;
+.TítuloRL {
+  background-color: #0f9921;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+
+.OpcionesRL {
+  margin: 0;
+  padding: 0;
+  background-color: #11800d;
+  border: solid rgb(0, 0, 0);
+  text-align: center;
 }
 
 /* CSS DE AYUDA */
-.Ayuda {
-  background-color: #f3c180;
+.TítuloA {
+  background-color: #004df3;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
 }
 
-table {
-  border-color: #020100;
-  background-color: #ff9100;
+.OpcionesA {
+  margin: 0;
+  padding: 0;
+  background-color: #004df3;
+  border: solid rgb(0, 0, 0);
   text-align: center;
-  margin-left: 20%;
-}
-.img {
-  margin: 5px;
-  padding: 5px;
-  border: solid 10px rgb(0, 0, 0);
 }
 
-.BTN {
-  background-color: #020100;
-  color: #ff9100;
-  width: 6, 25rem;
-  height: 50fpx;
-}
 /* CSS DE RECETAS */
-.Recetas {
-  background-color: #f3c180;
+.TítuloR {
+  background-color: #f3c323;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
 }
+
+.OpcionesR {
+  margin: 0;
+  padding: 0;
+  background-color: #f3c323;
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
+
 /* CSS DE TALLER VIRTUAL */
 .Título2 {
   background-color: rgb(212, 37, 75);
@@ -86,3 +101,17 @@ table {
   background-color: #f3c180;
 }
 /* CSS DE CONOCENOS */
+.Título3 {
+  background-color: rgb(205, 0, 212);
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  font-weight: 1000;
+}
+.Opciones3 {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(205, 0, 212);
+  border: solid rgb(0, 0, 0);
+  text-align: center;
+}
