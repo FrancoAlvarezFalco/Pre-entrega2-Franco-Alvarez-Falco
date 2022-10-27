@@ -49,6 +49,11 @@ SSS* {
 ol {
   text-align: left;
 }
+
+.cardd {
+  display: flex;
+}
+
 /* CSS DE AYUDA */
 .Ayuda {
   background-color: #f3c180;
